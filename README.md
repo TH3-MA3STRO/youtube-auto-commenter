@@ -10,7 +10,7 @@ how to install?
 
 open cmd
 
-type: git clone https://github.com/slim-python/youtube-auto-commenter
+type: git clone https://github.com/slim-python/youtube-auto-commenter.git
 
 after clonning go to youtube-auto-commenter (cd youtube-auto-commenter)
 
